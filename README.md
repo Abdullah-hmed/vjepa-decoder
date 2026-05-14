@@ -41,10 +41,10 @@ Once setup, download the necessary libraries imported in the **t2i_notebook.ipyn
 
 ## Decoded Examples:
 
-<video src="assets/birb.mp4" controls="controls"></video>
+<video src="assets/birb_small.mp4" controls="controls"></video>
 <br>
-<video src="assets/squirrel.mp4" controls="controls"></video>
+<video src="assets/squirrel_small.mp4" controls="controls"></video>
 
 <hr>
-<video src="assets/squirrel_cropped.mp4" controls="controls"></video>
+<video src="assets/squirrel_cropped_small.mp4" controls="controls"></video>
 <br>Same squirrel video with the center cropping instead of letterboxing
